@@ -59,7 +59,7 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 
 ## License
 
-This project is licensed under the Copyright (c) [2023] [Harold]. Feel free to use, modify, and distribute the code.
+This project is licensed under the Copyright (c) [2023] [Harold]. Feel free to use, modify, and distribute the code!
 
 
 
