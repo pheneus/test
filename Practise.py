@@ -4,7 +4,7 @@ from tkinter import ttk
 # Create a Tkinter window
 window = Tk()
 
-# Create a ttk Style object
+# Create a ttk Style object!!!!
 style = ttk.Style()
 
 # Configure the style to have rounded corners
